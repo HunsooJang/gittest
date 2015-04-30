@@ -1,5 +1,7 @@
 #include <stdio.h>
 
 void main(){
-	printf("My first repository\n");
+	int i;
+	for(i = 0; i<5; i++)
+		printf("My first repository\n");
 }
